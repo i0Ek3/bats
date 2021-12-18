@@ -1,10 +1,13 @@
 # bats
 
-Some Windows .bat files, that's all.
+Some Windows .bat files for personal use, that's all.
 
-## .bats
+## Content
 
 - getinfo.bat
+- installAndUninstall.bat
+  - If you want to use this bat for other programs, you need change it by yourself
+
 
 ## Resources
 
