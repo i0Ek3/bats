@@ -4,9 +4,9 @@ Some Windows .bat files for personal use, that's all.
 
 ## Content
 
-- getinfo.bat
 - installAndUninstall.bat
   - If you want to use this bat for other programs, you need change it by yourself
+  - Also there is an issue, we called it as reinstall loop
 
 
 ## Resources
